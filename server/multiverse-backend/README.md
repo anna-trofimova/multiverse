@@ -1,1 +1,0 @@
-# Rick & Morty Multiverse Visitor Center (Full Stack Challenge)
